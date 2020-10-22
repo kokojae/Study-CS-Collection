@@ -59,7 +59,7 @@ namespace Dictionary
                 {"Sc",
                     new Element(){Symbol="Sc",Name="Scandium",AtomicNumber=21}},
                 {"Ti",
-                    new Element(){Symbol="Ti",Name="Titanium",AtomicNumber=22}},
+                    new Element(){Symbol="Ti",Name="Titanium",AtomicNumber=22}}
             };
 
         }
